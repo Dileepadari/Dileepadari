@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dileepadari
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C and is in IIITH.
-- 💞️ I’m looking to collaborate on big projects 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 you can reach me by mail (rs200302@rguktsklm.ac.in)
 
 <!---
