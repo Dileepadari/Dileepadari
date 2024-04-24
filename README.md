@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dileepadari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN and is in IIITH.
+- 🌱 I’m currently focused on Design Thinking and is in IIITH.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 you can reach me by mail (rs200302@rguktsklm.ac.in)
 
