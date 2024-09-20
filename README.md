@@ -64,31 +64,32 @@ Feel free to reach out to me via [email](mailto:rs200302@rguktsklm.ac.in)—I’
 
 ## 📺 Find Me On
 <div align="left">
-  <a href="https://www.youtube.com/@dileepadari5182/featured">
+  <a href="https://www.youtube.com/@dileepadari5182/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
-  <a href="https://www.instagram.com/dileepadari">
+  <a href="https://www.instagram.com/dileepadari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://discord.com/channels/Delhiking#6850">
+  <a href="https://discord.com/channels/Delhiking#6850" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
-  <a href="mailto:rs200302@rguktsklm.ac.in">
+  <a href="mailto:rs200302@rguktsklm.ac.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/dileep-kumar-adari-298169252">
+  <a href="https://www.linkedin.com/in/dileep-kumar-adari-298169252" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.facebook.com/dileep.adari">
+  <a href="https://www.facebook.com/dileep.adari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook logo" />
   </a>
-  <a href="http://wa.me/7330701217">
+  <a href="http://wa.me/7330701217" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
-  <a href="https://twitter.com/Dileepadari1">
+  <a href="https://twitter.com/Dileepadari1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
 </div>
+
 
 ---
 
