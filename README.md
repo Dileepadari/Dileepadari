@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Dileep Adari!
+🎓 IIIT Hyderabad | 📅 3rd Semester, 1st Year | 🌍 From Visakhapatnam, Andhra Pradesh
 
 💻 **Passionate about Coding** | 🎨 **Exploring Design Thinking** | 📚 **IIIT Hyderabad Student**
 
