@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 What I'm Up To
-I'm diving deep into **Design Thinking** and enhancing my skills in **coding**. I thrive on bringing creative ideas to life and solving complex problems through innovative design and technology.
+I'm diving deep into **Design Thinking** and also enhancing my skills in **coding**. I thrive on bringing creative ideas to life and solving complex problems through innovative design and technology.
 
 ---
 
