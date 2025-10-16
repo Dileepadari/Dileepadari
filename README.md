@@ -101,7 +101,7 @@ Feel free to reach out to me via [email](mailto:rs200302@rguktsklm.ac.in)—I’
 
 ## 📈 Profile Views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dileepadari/count.svg?" />
+  <img src="https://profile-counter.deno.dev/dileepadari/count.svg?" />
 </div>
 
 ---
