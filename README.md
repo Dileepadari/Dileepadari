@@ -8,7 +8,7 @@ Visit [My Portfolio](https://dileepadari.dev)
 ---
 
 ## 🔍 What I'm Up To
-I'm diving deep into **Design Thinking** and also enhancing my skills in **coding**. I thrive on bringing creative ideas to life and solving complex problems through innovative design and technology.
+Software developer and open-source enthusiast specializing in **full-stack web development** and **human-centered design**. I build scalable applications using React, Next.js, FastAPI, and modern web technologies, with a focus on creating intuitive user experiences and solving complex technical challenges. Passionate about leveraging technology to create meaningful impact from IoT systems to enterprise-grade web platforms.
 
 ---
 
