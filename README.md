@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dileep Adari!
 💻 **Passionate about Coding** | 🎨 **Exploring Design Thinking** | 📚 **IIIT Hyderabad Student** |  🌏 **Joomla! CMS @GSoC'25**
 
-🎓 B.Tech in Computer Science | 📅 7th Semester | 🌍 From Visakhapatnam, Andhra Pradesh
+🎓 B.Tech in Computer Science | 📅 8th Semester | 🌍 From Visakhapatnam, Andhra Pradesh
 
 Visit [My Portfolio](https://dileepadari.dev)
 
