@@ -38,7 +38,7 @@ I'm always excited to collaborate on open-source projects, full-stack web applic
 Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through any of my social platforms. I'm always open to interesting conversations, collaborations, and opportunities.
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
   <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
 </div>
@@ -47,6 +47,15 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 </div>
 <div align="center">
   <img src="./assets/trophies.svg" alt="GitHub trophies" />
+</div>
+-->
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Dileepadari&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dileepadari&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dileepadari&theme=tokyonight" />
 </div>
 
 ---
