@@ -1,110 +1,176 @@
-# 👋 Hi, I'm Dileep Adari!
-💻 **Passionate about Coding** | 🎨 **Exploring Design Thinking** | 📚 **IIIT Hyderabad Student** |  🌏 **Joomla! CMS @GSoC'25**
+# 👋 Hi, I'm Dileep Kumar Adari!
 
-🎓 B.Tech in Computer Science | 📅 8th Semester | 🌍 From Visakhapatnam, Andhra Pradesh
+**Software Engineer @ Chubb** | **Google Summer of Code 2025 Contributor and 2026 Mentor @ Joomla! CMS** | **Open Source Contributor**  
 
-Visit [My Portfolio](https://dileepadari.dev)
+🎓 B.Tech in Computer Science (Honors), IIIT Hyderabad (2022–2026) | 🌍 From Visakhapatnam, Andhra Pradesh, India
+
+Visit **[My Portfolio](https://dileepadari.dev)**
 
 ---
 
 ## 🔍 What I'm Up To
-Software developer and open-source enthusiast specializing in **full-stack web development** and **human-centered design**. I build scalable applications using React, Next.js, FastAPI, and modern web technologies, with a focus on creating intuitive user experiences and solving complex technical challenges. Passionate about leveraging technology to create meaningful impact from IoT systems to enterprise-grade web platforms.
 
----
+Software engineer and open-source enthusiast working across full-stack web development, developer tools, and human-centered software design. I build scalable, cloud-native applications with a focus on performance, accessibility, and a genuinely good user experience.
+
+**Currently:**
+- **Software Engineer** - building enterprise software at Chubb.
+- **Open Source Mentor & Contributor** - GSoC 2026 mentor and 2025 contributor with Joomla! CMS.
+
+**Previously, I've worn a few other hats:**
+- **Researcher** - AI-assisted tools and usability/design research.
+- **Web Administrator** - maintaining web infrastructure and security.
+- **Community Organizer** - building and supporting different clubs.
+
+I'm passionate about solving hard engineering problems, contributing to open source, and building software people actually enjoy using.
 
 ## 🌱 Current Focus
-Actively learning and applying **Design Thinking** methodologies while pursuing my academic journey at **IIIT Hyderabad**. Always on the lookout for opportunities to expand my knowledge and skills!
+
+I'm beginning my journey as a **Software Engineer at Chubb** while staying active in open source. Day to day, I'm focused on building scalable full-stack applications, exploring AI-powered developer tools, and deepening my grasp of cloud, system design, and distributed systems - all with human-centered design principles guiding how I build.
 
 ---
 
 ## 🤝 Looking for Collaborations
-I’m eager to collaborate on **projects** that blend innovative thinking with practical coding skills. Together, we can make a significant impact!
 
----
+I'm always excited to collaborate on open-source projects, full-stack web applications, and AI or developer tooling, as well as cloud and DevOps work and research on new software ideas. If you're building something in that space, let's make something impactful together!
 
 ## 📫 Let's Connect
-Feel free to reach out to me via [email](mailto:rs200302@rguktsklm.ac.in)—I’m open to interesting conversations and new opportunities!
+
+Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through any of my social platforms. I'm always open to interesting conversations, collaborations, and opportunities.
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileepadari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepadari&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=Roff" height="150" alt="languages graph" />
+  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dileepadari&no-bg=true&no-frame=true&rank=-C" alt="GitHub Trophies" />
+  <img src="./assets/streak.svg" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img src="./assets/trophies.svg" alt="GitHub trophies" />
 </div>
 
 ---
 
 ## 🛠️ Technologies & Tools
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo" title="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="30" alt="Moodle logo" title="Moodle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop logo" title="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" title="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="Vim logo" title="Vim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="LaTeX logo" title="LaTeX" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" title="Bootstrap"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" title="Laravel"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" title="SQLite"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" title="Bash"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="Vim" title="Vim"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" title="Photoshop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" title="Arduino"/>
+
 </div>
 
-
----
+--- 
 
 ## 📺 Find Me On
+
 <div align="left">
-  <a href="https://codeforces.com/profile/adaridileep" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2E99E2&logoColor=white&style=for-the-badge" height="35" alt="Codeforces logo" />
-  </a>
-  <a href="https://leetcode.com/u/Delhiking/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/dileep-kumar-adari-298169252" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/dileepadari" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://discord.com/channels/Delhiking#6850" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:rs200302@rguktsklm.ac.in" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.youtube.com/@dileepadari5182/featured" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube logo" />
-  </a>
-  <a href="https://www.facebook.com/dileep.adari" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook logo" />
-  </a>
-  <a href="http://wa.me/7330701217" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp logo" />
-  </a>
-  <a href="https://twitter.com/Dileepadari1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter logo" />
-  </a>
-</div>
 
+<a href="https://codeforces.com/profile/adaridileep" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2E99E2&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://leetcode.com/u/Delhiking/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/a-dk/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://www.instagram.com/dileepadari/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="mailto:rs200302@rguktsklm.ac.in">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://www.youtube.com/@dileepadari5182" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://www.facebook.com/dileep.adari" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+<a href="https://twitter.com/Dileepadari1" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+</div>
 ---
 
-## 📈 Profile Views
+## 📊 Profile Views
+
 <div align="center">
-  <img src="https://profile-counter.deno.dev/dileepadari/count.svg?" />
+
+<img src="https://profile-counter.deno.dev/dileepadari/count.svg"/>
+
 </div>
 
 ---
 
-Thank you for visiting my profile! Let's create something amazing together!
+## 💡 Fun Fact
+
+```text
+while(alive) {
+    learn();
+    build();
+    contribute();
+    repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+I'm always excited to connect with fellow developers, open-source contributors, and technology enthusiasts.
+
+If you enjoy my work, consider **starring a repository** or reaching out for a collaboration!
+
+<br>
+
+<a href="https://github.com/Dileepadari">
+<img src="https://img.shields.io/github/followers/Dileepadari?label=Follow&style=social"/>
+</a>
+
+</div>
