@@ -33,7 +33,20 @@ ANTI_BOT_HOSTS = {
     "codeforces.com": "403 to any non-browser request",
     "leetcode.com": "403 to any non-browser request",
     "www.linkedin.com": "999, LinkedIn's standard scripted-request refusal",
+    # These two answer 200 from a residential address and refuse a datacentre
+    # one, so they passed here and failed on a GitHub Actions runner: 403 from
+    # Twitter, 429 from Instagram. Browsed by hand on 2026-09-23 and both are
+    # live: "Dileepadari (@Dileepadari1) / X" and
+    # "Dileep Adari (@dileepadari) - Instagram".
+    "twitter.com": "403 from datacentre IPs, including Actions runners",
+    "www.instagram.com": "429 from datacentre IPs, including Actions runners",
 }
+
+# The floor under this check. Skipping is how a link checker quietly becomes a
+# no-op: every awkward host gets excepted until nothing is verified and the job
+# still reports success. If a future exception takes the real count below this,
+# the job fails and the number has to be lowered deliberately.
+MINIMUM_CHECKED = 40
 
 USER_AGENT = "Mozilla/5.0 (compatible; profile-readme-link-check)"
 TIMEOUT = 30
@@ -78,13 +91,22 @@ def main():
         results = list(pool.map(check, found))
 
     failures = [(u, why) for u, why in results if why]
-    print(f"checked {len(found) - len(skipped)} URLs, skipped {len(skipped)} anti-bot hosts")
+    checked = len(found) - len(skipped)
+    print(f"checked {checked} URLs, skipped {len(skipped)} anti-bot hosts")
     for url in skipped:
         print(f"  skipped {url}  ({ANTI_BOT_HOSTS[host_of(url)]})")
     if failures:
         print(f"\n{len(failures)} dead:", file=sys.stderr)
         for url, why in failures:
             print(f"  {why}  {url}", file=sys.stderr)
+        return 1
+    if checked < MINIMUM_CHECKED:
+        print(
+            f"\nOnly {checked} URLs were actually checked, below the floor of "
+            f"{MINIMUM_CHECKED}. Either the README shrank or the skip list has "
+            "grown too far.",
+            file=sys.stderr,
+        )
         return 1
     print("all good")
     return 0

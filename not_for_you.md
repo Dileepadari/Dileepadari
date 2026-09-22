@@ -56,6 +56,19 @@ I confirmed the checker actually fails by putting the dead counter URL back and
 watching it report `HTTP 404`, then restoring the file. A link checker that has
 never failed is not evidence of anything.
 
+### The link checker failed on its first CI run, correctly
+
+Twitter answered 403 and Instagram 429 to the GitHub Actions runner, having both
+answered 200 from here. They are the same class as the other three: services
+that refuse datacentre addresses. Browsing both confirmed they are live.
+
+They joined `ANTI_BOT_HOSTS`, which makes five skips out of fifty-three URLs,
+and that is the direction this kind of check rots in: each awkward host gets
+excepted until nothing is verified and the job still reports success. So there
+is now a `MINIMUM_CHECKED = 40` floor. If a future exception takes the real
+count below it the job fails and someone has to lower the number on purpose. I
+raised the floor to 60 once to watch it fail, then put it back.
+
 **There is no schedule on the workflow.** Link rot is caught on the next push or
 by running the workflow by hand. That follows the standing "no scheduled CI"
 rule, and it is a real limitation: a link can rot the day after a push and go
