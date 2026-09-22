@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  links:
+    name: Every link and image still resolves
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # This README renders on a GitHub profile page, so a dead URL is a broken
+      # image in front of every visitor. The profile-view counter this file used
+      # went away entirely and showed a broken-image icon under "Profile Views"
+      # until someone looked. The checker refuses to pass if it finds no URLs at
+      # all, so an accidentally-empty README fails rather than reporting success.
+      #
+      # There is deliberately no schedule here: link rot is caught on the next
+      # push, or by running this workflow by hand from the Actions tab.
+      - name: Check links
+        run: python scripts/check_links.py
+
+  markdown:
+    name: The README is well formed
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      # The file is one long block of hand-written HTML inside Markdown, which
+      # is exactly the shape where an unclosed tag goes unnoticed until GitHub
+      # renders it oddly.
+      - name: Balanced div and anchor tags
+        run: |
+          python3 - <<'PY'
+          import re, sys
+          text = open("README.md", encoding="utf-8").read()
+          bad = False
+          for tag in ("div", "a", "picture"):
+              opens = len(re.findall(rf"<{tag}[\s>]", text))
+              closes = len(re.findall(rf"</{tag}>", text))
+              print(f"{tag}: {opens} open, {closes} close")
+              if opens != closes:
+                  print(f"  unbalanced <{tag}>", file=sys.stderr)
+                  bad = True
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: No emoji, em dashes or decorative arrows
+        run: |
+          if grep -nP '[\x{1F300}-\x{1FAFF}\x{2600}-\x{27BF}\x{2B00}-\x{2BFF}\x{2190}-\x{21FF}\x{2014}\x{2013}]' README.md; then
+            echo "Found emoji, an em/en dash or an arrow in README.md"
+            exit 1
+          fi
+          echo "clean"
