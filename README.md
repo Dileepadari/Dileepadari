@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Dileep Kumar Adari!
+# Hi, I'm Dileep Kumar Adari!
 
 **Software Engineer @ Chubb** | **Google Summer of Code 2025 Contributor and 2026 Mentor @ Joomla! CMS** | **Open Source Contributor**  
 
-🎓 B.Tech in Computer Science (Honors), IIIT Hyderabad (2022–2026) | 🌍 From Visakhapatnam, Andhra Pradesh, India
+B.Tech in Computer Science (Honors), IIIT Hyderabad (2022-2026) | From Visakhapatnam, Andhra Pradesh, India
 
 Visit **[My Portfolio](https://dileepadari.dev)**
 
 ---
 
-## 🔍 What I'm Up To
+## What I'm Up To
 
 Software engineer and open-source enthusiast working across full-stack web development, developer tools, and human-centered software design. I build scalable, cloud-native applications with a focus on performance, accessibility, and a genuinely good user experience.
 
@@ -23,32 +23,21 @@ Software engineer and open-source enthusiast working across full-stack web devel
 
 I'm passionate about solving hard engineering problems, contributing to open source, and building software people actually enjoy using.
 
-## 🌱 Current Focus
+## Current Focus
 
 I'm beginning my journey as a **Software Engineer at Chubb** while staying active in open source. Day to day, I'm focused on building scalable full-stack applications, exploring AI-powered developer tools, and deepening my grasp of cloud, system design, and distributed systems - all with human-centered design principles guiding how I build.
 
 ---
 
-## 🤝 Looking for Collaborations
+## Looking for Collaborations
 
 I'm always excited to collaborate on open-source projects, full-stack web applications, and AI or developer tooling, as well as cloud and DevOps work and research on new software ideas. If you're building something in that space, let's make something impactful together!
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through any of my social platforms. I'm always open to interesting conversations, collaborations, and opportunities.
 
 ---
-<!-- <div align="center">
-  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./assets/top-langs.svg" alt="Top languages" />
-</div>
-<div align="center">
-  <img src="./assets/streak.svg" alt="GitHub streak" />
-</div>
-<div align="center">
-  <img src="./assets/trophies.svg" alt="GitHub trophies" />
-</div>
--->
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Dileepadari&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -60,7 +49,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies and Tools
 
 <div align="left">
 
@@ -106,7 +95,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 
 --- 
 
-## 📺 Find Me On
+## Find Me On
 
 <div align="left">
 
@@ -126,7 +115,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
-<a href="mailto:rs200302@rguktsklm.ac.in">
+<a href="mailto:adaridileep@gmail.com">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
@@ -145,17 +134,17 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 </div>
 ---
 
-## 📊 Profile Views
+## Profile Views
 
 <div align="center">
 
-<img src="https://profile-counter.deno.dev/dileepadari/count.svg"/>
+<img src="https://komarev.com/ghpvc/?username=Dileepadari&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
 ```text
 while(alive) {
@@ -170,7 +159,7 @@ while(alive) {
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile
 
 I'm always excited to connect with fellow developers, open-source contributors, and technology enthusiasts.
 
