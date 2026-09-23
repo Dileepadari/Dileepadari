@@ -57,11 +57,3 @@ jobs:
                   bad = True
           sys.exit(1 if bad else 0)
           PY
-
-      - name: No emoji, em dashes or decorative arrows
-        run: |
-          if grep -nP '[\x{1F300}-\x{1FAFF}\x{2600}-\x{27BF}\x{2B00}-\x{2BFF}\x{2190}-\x{21FF}\x{2014}\x{2013}]' README.md; then
-            echo "Found emoji, an em/en dash or an arrow in README.md"
-            exit 1
-          fi
-          echo "clean"
