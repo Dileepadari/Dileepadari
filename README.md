@@ -1,14 +1,14 @@
-# Hi, I'm Dileep Kumar Adari!
+# 👋 Hi, I'm Dileep Kumar Adari!
 
 **Software Engineer @ Chubb** | **Google Summer of Code 2025 Contributor and 2026 Mentor @ Joomla! CMS** | **Open Source Contributor**  
 
-B.Tech in Computer Science (Honors), IIIT Hyderabad (2022-2026) | From Visakhapatnam, Andhra Pradesh, India
+🎓 B.Tech in Computer Science (Honors), IIIT Hyderabad (2022-2026) | 🌍 From Visakhapatnam, Andhra Pradesh, India
 
 Visit **[My Portfolio](https://dileepadari.dev)**
 
 ---
 
-## What I'm Up To
+## 🔍 What I'm Up To
 
 Software engineer and open-source enthusiast working across full-stack web development, developer tools, and human-centered software design. I build scalable, cloud-native applications with a focus on performance, accessibility, and a genuinely good user experience.
 
@@ -49,7 +49,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 
 ---
 
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 
 <div align="left">
 
@@ -132,6 +132,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 </a>
 
 </div>
+
 ---
 
 ## Profile Views
@@ -144,7 +145,7 @@ Feel free to reach out via **[email](mailto:adaridileep@gmail.com)** or through 
 
 ---
 
-## Fun Fact
+## 💡 Fun Fact
 
 ```text
 while(alive) {
@@ -159,7 +160,7 @@ while(alive) {
 
 <div align="center">
 
-### Thanks for visiting my profile
+### ⭐ Thanks for visiting my profile
 
 I'm always excited to connect with fellow developers, open-source contributors, and technology enthusiasts.
 
